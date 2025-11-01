@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Sachin2132&color=green)
 ## Hi👋 I'm Sachin...
 
 <!--
